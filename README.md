@@ -21,8 +21,6 @@
 <div align="left">
   <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
   <img width="12" />
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langchain.png" height="30" alt="langchain logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" />
