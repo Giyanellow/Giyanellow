@@ -45,3 +45,4 @@
 </div>
 
 ###
+<a href="https://app.daily.dev/montegianello"><img src="https://api.daily.dev/devcards/v2/vK4Jaa3vlYhjfkqYgU8aA.png?type=wide&r=4ib" width="652" alt="Gianello Montenegro's Dev Card"/></a>
