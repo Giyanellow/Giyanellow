@@ -10,7 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since my first microcontroller project in Electronics Engineering 😆  <br>📚 I'm currently learning more about optimizing LLM pipelines and AI agent orchestration with LangChain & RAG  <br>🎯 Goals: Build scalable AI-driven applications that bridge the gap between data and real-world impact</p>
+<p align="left">
+✨ Started by breaking microcontrollers, now breaking (and fixing) AI systems 😆<br>
+📚 Currently deep-diving into LLM pipelines, agentic workflows, RAG, and structured AI (LangChain, LangGraph, PydanticAI)<br>
+🎯 Goal: Build scalable AI applications that are practical, reliable, and actually useful
+</p>
 
 ###
 
@@ -19,29 +23,33 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=python" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=django" height="30" alt="django logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flask" height="30" alt="flask logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=fastapi" height="30" alt="fastapi logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=typescript" height="30" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="30" alt="react logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="30" alt="nextjs logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="30" alt="arduino logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=raspberrypi" height="30" alt="raspberrypi logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="30" alt="linux logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=sqlite" height="30" alt="sqlite logo" />
+  <img src="https://skillicons.dev/icons?i=python" height="50" alt="python logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=fastapi" height="50" alt="fastapi logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="50" alt="nextjs logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=arduino" height="50" alt="arduino logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=raspberrypi" height="50" alt="raspberrypi logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=redis" height="50" alt="redis logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=docker" height="50" alt="docker logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="50" alt="neovim logo" />
+  <img width="5" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
 </div>
 
 ###
